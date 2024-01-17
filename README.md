@@ -32,6 +32,7 @@ Basicamente o projeto foi capaz de realizar as seguintes tarefas:
 - [x] Animações simples 1
 - [x] Responsividade 2
 - [x] Possui funcionalidades com JS 3
+- [x] Galeria de projetos 4
       
 <img src="assets/img/QRcode.png" alt="css3" width="200" height="200"/>
 
