@@ -31,12 +31,11 @@ Basicamente o projeto foi capaz de realizar as seguintes tarefas:
 - [x] Animações simples 1
 - [x] Responsividade 2
 - [x] Possui funcionalidades com JS 3
-- [x] Consumo de API com JS 4
       
 <img src="images/QRcode.png" alt="css3" width="200" height="200"/>
 
 ## 🚀 Link do site copie e cole no navegador!
 
 ```
-https://pokedex-search-six.vercel.app/
+https://portfolio-wguf.vercel.app/
 ```
