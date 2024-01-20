@@ -39,5 +39,5 @@ Basicamente o projeto foi capaz de realizar as seguintes tarefas:
 ## 🚀 Link do site copie e cole no navegador!
 
 ```
-https://portfolio-btro.vercel.app/
+https://portfolio-kxxy.vercel.app/
 ```
