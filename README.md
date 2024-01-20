@@ -40,7 +40,7 @@ Basicamente o projeto foi capaz de realizar as seguintes tarefas:
 ##(Com projetos novos)
 
 ```
-https://alucas314.github.io/Portfolio/
+https://portfolio-g6up.vercel.app/
 ```
 
 ## 🚀 Link da atualização anterior do site copie e cole no navegador!
