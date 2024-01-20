@@ -36,8 +36,8 @@ Basicamente o projeto foi capaz de realizar as seguintes tarefas:
       
 <img src="assets/img/QRcode.png" alt="css3" width="200" height="200"/>
 
-## 🚀 Link do site copie e cole no navegador!
+## 🚀 Link temporário da atualização do site copie e cole no navegado!
 
 ```
-https://portfolio-kxxy.vercel.app/
+https://alucas314.github.io/Portfolio/
 ```
